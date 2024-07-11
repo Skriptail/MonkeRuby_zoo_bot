@@ -1,0 +1,222 @@
+[
+    {
+        "name": "Александрийский попугай",
+        "answers": [
+            8,
+            4,
+            5,
+            3
+        ],
+        "about_animal": "Среднего размера попугай с длинным хвостом и ярко-зеленым оперением. Отличается умением имитировать человеческую речь.",
+        "image_url": "https://storage.moscowzoo.ru/storage/647edc2a70bb5462366280fc/images/animals/69353a1f-35a1-42c7-8e49-fc0b9bbdf966.jpg"
+    },
+    {
+        "name": "Белый медведь",
+        "answers": [
+            3,
+            12,
+            3,
+            2
+        ],
+        "about_animal": "Крупный хищник, обитающий в арктических регионах. Известен своей белой шерстью, которая помогает ему маскироваться на фоне снега и льда.",
+        "image_url": "https://storage.moscowzoo.ru/storage/647edc2a70bb5462366280fc/images/animals/10581435-a5ba-4118-96d2-9c44c6063416.jpeg"
+    },
+    {
+        "name": "Амурский тигр",
+        "answers": [
+            2,
+            5,
+            11,
+            2
+        ],
+        "about_animal": "Один из самых крупных подвидов тигра, обитающий в дальневосточной части России. Отличается густой полосатой шерстью.",
+        "image_url": "https://storage.moscowzoo.ru/storage/647edc2a70bb5462366280fc/images/animals/4fbb2421-64be-45f0-956d-514f7c2c18db.jpeg"
+    },
+    {
+        "name": "Белогрудый ёж",
+        "answers": [
+            3,
+            2,
+            3,
+            10
+        ],
+        "about_animal": "Маленький ночной хищник с иглами на спине. Распространен в лесах и степях Евразии.",
+        "image_url": "https://storage.moscowzoo.ru/storage/647edc2a70bb5462366280fc/images/animals/81354eae-792a-474f-a1a6-accd8540e071.jpeg"
+    },
+    {
+        "name": "Ирбис (Снежный Барс)",
+        "answers": [
+            6,
+            7,
+            4,
+            3
+        ],
+        "about_animal": "Редкий крупный хищник, обитающий в горных районах Центральной Азии. Пятнистая шерсть и длинный хвост.",
+        "image_url": "https://storage.moscowzoo.ru/storage/647edc2a70bb5462366280fc/images/animals/1513e911-c90a-4719-ba56-c7a5f3d4e0b4.jpeg"
+    },
+    {
+        "name": "Балийский Скворец",
+        "answers": [
+            10,
+            4,
+            2,
+            4
+        ],
+        "about_animal": "Маленькая птица с ярко-белым оперением и голубыми пятнами вокруг глаз. Находится на грани вымирания.",
+        "image_url": "https://storage.moscowzoo.ru/storage/647edc2a70bb5462366280fc/images/animals/6f631550-3ff0-4792-a092-c6191154b90c.jpg"
+    },
+    {
+        "name": "Жираф",
+        "answers": [
+            4,
+            8,
+            6,
+            2
+        ],
+        "about_animal": "Самое высокое наземное животное с длинной шеей и ногами. Обитает в саваннах Африки.",
+        "image_url": "https://storage.moscowzoo.ru/storage/647edc2a70bb5462366280fc/images/animals/8c7e704a-6e91-4f4b-be40-640b510976ea.jpeg"
+    },
+    {
+        "name": "Капибара",
+        "answers": [
+            3,
+            4,
+            7,
+            6
+        ],
+        "about_animal": "Крупнейший грызун, обитающий в тропических и субтропических лесах Южной Америки. Полуводный образ жизни.",
+        "image_url": "https://storage.moscowzoo.ru/storage/647edc2a70bb5462366280fc/images/animals/da529dd9-55de-44c3-8ad2-340ab736eec6.jpg"
+    },
+    {
+        "name": "Сурикат",
+        "answers": [
+            5,
+            2,
+            4,
+            9
+        ],
+        "about_animal": "Маленький млекопитающий из семейства мангустовых, обитающий в пустынях Южной Африки. Социальное поведение.",
+        "image_url": "https://storage.moscowzoo.ru/storage/647edc2a70bb5462366280fc/images/animals/b184b0be-9537-4b67-be4a-f5b82278de8a.jpeg"
+    },
+    {
+        "name": "Кенгуру Беннета",
+        "answers": [
+            4,
+            7,
+            3,
+            6
+        ],
+        "about_animal": "Среднего размера кенгуру, обитающий в Австралии и Тасмании. Активен в сумерках и ночью.",
+        "image_url": "https://storage.moscowzoo.ru/storage/647edc2a70bb5462366280fc/images/animals/54ac5fec-8810-4b5f-9b57-f4fee180746c.jpeg"
+    },
+    {
+        "name": "Лемур Кошачий",
+        "answers": [
+            6,
+            5,
+            5,
+            4
+        ],
+        "about_animal": "Небольшой примат с длинным полосатым хвостом, обитающий на Мадагаскаре. Древесный образ жизни.",
+        "image_url": "https://storage.moscowzoo.ru/storage/647edc2a70bb5462366280fc/images/animals/77c0892e-736c-4c1c-9525-a11ce8eb61be.jpeg"
+    },
+    {
+        "name": "Бородатая Неясыть",
+        "answers": [
+            2,
+            3,
+            6,
+            9
+        ],
+        "about_animal": "Крупная сова с характерным \"бородатым\" лицом. Активна ночью.",
+       "image_url": "https://storage.moscowzoo.ru/storage/647edc2a70bb5462366280fc/images/animals/91151780-29ab-4976-9be3-03eb5bf0d64c.jpeg"
+    },
+    {
+        "name": "Какаду Гоффина",
+        "answers": [
+            8,
+            6,
+            3,
+            3
+        ],
+        "about_animal": "Маленький белый попугай с розовым оттенком на голове, обитающий на островах Индонезии. Дружелюбный характер.",
+        "image_url": "https://storage.moscowzoo.ru/storage/647edc2a70bb5462366280fc/images/animals/57af06d6-ff41-4f58-81bc-518e8a688e98.jpeg"
+    },
+    {
+        "name": "Большая Панда",
+        "answers": [
+            7,
+            2,
+            4,
+            7
+        ],
+        "about_animal": "Крупное млекопитающее, обитающее в горных лесах Китая. Черно-белая окраска и диета из бамбука.",
+        "image_url": "https://storage.moscowzoo.ru/storage/647edc2a70bb5462366280fc/images/animals/d90c2e81-d57a-4cc3-9cd1-4fde00ba5360.jpeg"
+    },
+    {
+        "name": "Золотистый Львиный Тамарин",
+        "answers": [
+            3,
+            9,
+            7,
+            1
+        ],
+        "about_animal": "Маленькая обезьяна с ярко-рыжим мехом, обитающая в тропических лесах Бразилии. Под угрозой исчезновения.",
+        "image_url": "https://storage.moscowzoo.ru/storage/647edc2a70bb5462366280fc/images/animals/5339374d-2815-4b60-8bba-7ff204903502.jpeg"
+    },
+    {
+        "name": "Белая Сова",
+        "answers": [
+            1,
+            2,
+            10,
+            7
+        ],
+        "about_animal": "Крупная сова с белым оперением, обитающая в арктических регионах. Активна в сумерках и ночью.",
+        "image_url": "https://storage.moscowzoo.ru/storage/647edc2a70bb5462366280fc/images/animals/b49af9ff-c472-4d95-acf2-44e3dce777d2.jpeg"
+    },
+    {
+        "name": "Азиатский Слон",
+        "answers": [
+            5,
+            8,
+            5,
+            2
+        ],
+        "about_animal": "Крупное наземное млекопитающее с меньшими ушами и более изогнутым хоботом по сравнению с африканским слоном, обитающее в лесах и травянистых областях Азии.",
+        "image_url": "https://storage.moscowzoo.ru/storage/647edc2a70bb5462366280fc/images/animals/5c716198-b8c0-4f4e-b831-728f39a79009.jpeg"
+    },
+    {
+        "name": "Росомаха",
+        "answers": [
+            4,
+            6,
+            8,
+            2
+        ],
+        "about_animal": "Среднего размера хищник, обитающий в лесах и тундрах Северного полушария. Известна силой и агрессивностью.",
+        "image_url": "https://storage.moscowzoo.ru/storage/647edc2a70bb5462366280fc/images/animals/320d974d-8c56-4280-b519-4d15d053c33f.jpeg"
+    },
+    {
+        "name": "Лайсанский Чирок (Лайсанская Кряква)",
+        "answers": [
+            6,
+            3,
+            3,
+            8
+        ],
+        "about_animal": "Небольшая утка, обитающая на острове Лайсан в Тихом океане. Под угрозой исчезновения.",
+        "image_url": "https://storage.moscowzoo.ru/storage/647edc2a70bb5462366280fc/images/animals/ece55f63-5b78-43e3-82ee-10a9deaceffe.jpeg"
+    },
+    {
+        "name": "Тупорылый крокодил",
+        "answers": [
+            0,
+            0,
+            0,
+            20
+        ],
+        "about_animal": "Тупорылый крокодил",
+        "image_url": "https://storage.moscowzoo.ru/storage/647edc2a70bb5462366280fc/images/animals/c9bae8b2-4d21-41f8-9b68-dafe237e44e4.jpeg"
+    }
+]
